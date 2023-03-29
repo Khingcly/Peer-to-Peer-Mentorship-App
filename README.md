@@ -1,10 +1,14 @@
-# Peer-to-Peer-Mentorship-App
+# Peer-to-Peer-Mentorship-App Project
 
-Using Microsoft Power Platform, I created a Model Driven Application that uses Power Automate and Power Bi to enhance the functionality of the process.
+This repository contains details narrowed down to; functions, screenshots, flowchart about this project.
+This project is one of @theoyinbooke [https://github.com/theoyinbooke]  challenge to Microsoft Power Platform Developers.
 
-I joined Olarenwaju Oyinbooke's challenge. 
-I recently took on one of Olanrewaju Oyinbooke's challenges [https://bit.ly/3FX0WAe] and created a Peer-to-Peer Mentorship App for a medium-sized company. The app allows Mentors and Mentees to create accounts and login into existing ones. Mentees can send mentorship requests to Mentors, who receive an automated approval email.
-The app also has a report/dashboard for HR to see and includes a matching algorithm that suggests potential mentors or mentees based on the mentee's profile. The app uses Dataverse as the data source and leverages Power Apps functions like Patch, If, CountRows, IsBlank, Notify, Navigate, and more. I also employed the context of the global variable and UpdateContext variable in my application.
-I'm excited to share my presentation of the application here: [https://bit.ly/3nlepep]. It was an incredible learning experience for me, and I'm proud of the final result.
+## Project Overview
+
+A medium-sized consulting firm wants to improve employee development by providing mentorship opportunities for its employees. They decide to implement the Peer-to-Peer Mentoring App, which is built using Power Apps.
+The app allows employees to find and connect with mentors and mentees within the company, based on their areas of interest and experience. The app includes a matching algorithm that suggests potential mentors or mentees based on the employee's profile, and employees can also search for mentors or mentees manually.
+Once a mentoring relationship is established, employees can communicate with one another through the app, schedule meetings.
+The app also includes a dashboard for management, which provides real-time visibility into the mentoring relationships within the company. Managers can view the number of mentoring relationships, the areas of interest and experience, and the progress of the mentoring relationships.
 
 
+![alt text](Mentorship_App_Screenshot/1.png)
