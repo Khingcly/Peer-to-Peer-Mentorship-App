@@ -1,0 +1,3 @@
+PowerApps Function to Display Welcome Message To Mentee
+
+"Welcome, Dear " & menteeusername.Value 

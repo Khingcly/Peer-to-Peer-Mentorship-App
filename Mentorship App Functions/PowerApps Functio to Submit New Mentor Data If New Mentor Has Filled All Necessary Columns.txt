@@ -1,0 +1,15 @@
+PowerApps Functio to Submit New Mentor Data If New Mentor Has Filled All Necessary Columns 
+
+If(
+    And(
+        !IsBlank(DataCardValue12.Value),
+        !IsBlank(DataCardValue13.Value),
+        !IsBlank(DataCardValue14.Value),
+        !IsBlank(DataCardValue16.SelectedItems),
+        !IsBlank(DataCardValue15.SelectedItems),
+        !IsBlank(DataCardValue17.SelectedItems)
+
+    ),
+    SubmitForm(Form1_1), // replace Form1 with the name of your form
+    Notify("Please fill in all required fields.", ErrorSeverity.Warning) // notify the user to fill in all required fields
+); Navigate(MentorScreen)

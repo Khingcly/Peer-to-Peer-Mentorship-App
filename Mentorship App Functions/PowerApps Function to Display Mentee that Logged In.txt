@@ -1,0 +1,3 @@
+PowerApps Function to Display Mentee that Logged In
+
+Filter('Mentee Tables',Username = textboxx.Value)

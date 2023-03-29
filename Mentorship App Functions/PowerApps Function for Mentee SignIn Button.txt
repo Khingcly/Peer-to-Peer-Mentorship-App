@@ -1,0 +1,14 @@
+PowerApps Function for Mentee SignIn Button
+
+If(
+    !IsBlank(textboxx) And !IsBlank(TextBox2_1.Value),
+    If(
+        CountRows(
+            Filter(
+                'Mentee Tables',
+                textboxx.Value in 'Mentee Tables'.Username And
+                TextBox2_1.Value in 'Mentee Tables'.Password
+            )
+        ) > 0,
+        Navigate(MenteeScreen, ScreenTransition.None),
+        Notify("Invalid username or password. Please try again.", NotificationType.Error)

@@ -1,0 +1,3 @@
+PowerApps Function to Display Welcome Message To Mentor
+
+"Welcome, Dear " & Mentorusername.Value 

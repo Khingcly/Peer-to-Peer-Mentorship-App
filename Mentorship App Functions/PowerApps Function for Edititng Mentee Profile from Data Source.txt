@@ -1,0 +1,3 @@
+PowerApps Function for Editing Mentee Profile from Data Source
+
+Patch('Mentee Tables', First(Filter('Mentee Tables', Username = menteeusername.Value)),Form2.Updates)

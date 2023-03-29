@@ -1,0 +1,15 @@
+PowerApps Function for Mentor SignIn Button
+
+If(
+    !IsBlank(textboxx_1) And !IsBlank(TextBox2_2.Value),
+    If(
+        CountRows(
+            Filter(
+                'Mentor Tables',
+                textboxx_1.Value in 'Mentor Tables'.Display_Name And
+                TextBox2_2.Value in 'Mentor Tables'.Password
+            )
+        ) > 0,
+        Navigate(MentorScreen, ScreenTransition.None),
+        Notify("Invalid username or password. Please try again.", NotificationType.Error)
+    ),
