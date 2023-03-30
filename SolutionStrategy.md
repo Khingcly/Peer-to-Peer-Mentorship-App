@@ -21,3 +21,5 @@
 * Mentor SignIn Screen - An existing user who has a account can log in using this screen.
 * Mentor Screen - Upon successful log in, the mentor screen is displayed with a welcome text on the top of the screen.
 * Mentor Edit Profile Screen - Mentor can edit their profile in this screen.
+
+## I also analysed some complex functions i used when developing the application. Take a look at it here 👉 [Mentorship App Function](https://github.com/Khingcly/Peer-to-Peer-Mentorship-App/blob/main/Mentorship%20App%20Function.md)
