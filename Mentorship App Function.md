@@ -63,3 +63,10 @@ This function is embeded inside a text label that shows a welcome message to men
 ```
 "Welcome, Dear " & Mentorusername.Value 
 ```
+## Approval flow function and onselect property of button send data to MentorshiRequestTable for mentorhip request
+```
+Sendapprovalandfollowupviaemail.Run(Body1, Subtitle2_1);
+Navigate(MenteeScreen);
+
+Patch('Mentorship Requests', Defaults('Mentorship Requests'), {MenteeName: Title2_1.Text, MentorName: Subtitle2.Text,'Area of Interest': DataCardValue33.Selected.Value})
+```
