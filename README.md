@@ -13,5 +13,9 @@ Once a mentoring relationship is established, employees can communicate with one
 The app also includes a dashboard for management, which provides real-time visibility into the mentoring relationships within the company. Managers can view the number of mentoring relationships, the areas of interest and experience, and the progress of the mentoring relationships.
 
 
+Let's have a peek into the **Solution Strategy**
+
+[Solution Strategy](https://github.com/Khingcly/Peer-to-Peer-Mentorship-App/blob/main/SolutionStrategy.md)
+
 
 
