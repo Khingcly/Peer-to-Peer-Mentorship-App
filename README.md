@@ -2,7 +2,7 @@
 ![1](https://user-images.githubusercontent.com/96332895/228571940-50bdda67-e1f1-422e-ba7b-427aa34dee85.jpg)
 
 This repository contains details narrowed down to; functions, screenshots, flowchart about this project.
-This project is one of @theoyinbooke [https://github.com/theoyinbooke]  challenge to Microsoft Power Platform Developers.
+This project is one of [Olarenwaju Oyinbooke's](https://github.com/theoyinbooke)  challenge to Microsoft Power Platform Developers.
 
 ## Project Overview
 
