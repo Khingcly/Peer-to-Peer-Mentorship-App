@@ -14,8 +14,7 @@ The app also includes a dashboard for management, which provides real-time visib
 
 
 Let's have a peek into the **Solution Strategy**
-
-[Solution Strategy](https://github.com/Khingcly/Peer-to-Peer-Mentorship-App/blob/main/SolutionStrategy.md)
+### [Solution Strategy](https://github.com/Khingcly/Peer-to-Peer-Mentorship-App/blob/main/SolutionStrategy.md)
 
 
 
