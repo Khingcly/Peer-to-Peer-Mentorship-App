@@ -23,3 +23,7 @@
 * Mentor Edit Profile Screen - Mentor can edit their profile in this screen.
 
 ## I also analysed some complex functions i used when developing the application. Take a look at it here 👉 [Mentorship App Function](https://github.com/Khingcly/Peer-to-Peer-Mentorship-App/blob/main/Mentorship%20App%20Function.md)
+
+Here is a flowchart to explain the process/data flow of my application
+![Mentorship App ProcessData Flow](https://user-images.githubusercontent.com/96332895/228855805-43d8d1b9-e0d7-44ba-8a38-bae65d914399.png)
+
